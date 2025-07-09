@@ -110,6 +110,7 @@ END
 | 🗺️ [QGIS整合指南](docs/QGIS_INTEGRATION.md) | 地圖製作、視覺化技巧 | GIS用戶 |
 | 📋 [API參考文件](docs/API_REFERENCE.md) | 函數詳細說明 | 開發者 |
 | 🔬 [技術細節](docs/TECHNICAL_DETAILS.md) | 演算法、架構設計 | 研究者 |
+| 📋 [門牌資料處理指引](docs/housenumber-data-guide.md) | 目前處理各縣市門牌座標檔案的經驗整理 | 開發者 |
 
 ## 🛠️ 環境需求
 
