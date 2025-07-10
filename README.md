@@ -332,8 +332,8 @@ print(available_data)
 
 ## 📞 技術支援
 
-- **GitHub Issues**：[問題回報](https://github.com/your-repo/issues)
-- **討論區**：[使用討論](https://github.com/your-repo/discussions)
+- **GitHub Issues**：[問題回報](https://github.com/wuruowei-Alice/twd97-address-matching/issues)
+- **討論區**：[使用討論](https://github.com/wuruowei-Alice/twd97-address-matching/discussions)
 - **Email**：wuruowei582@gmail.com
 
 ## 📜 授權說明
