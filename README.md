@@ -1,4 +1,4 @@
-# TWD97 智能地址匹配系統 v3.0
+# TWD97 智能地址匹配系統 v5.0
 
 [![R Version](https://img.shields.io/badge/R-%E2%89%A54.0-blue.svg)](https://cran.r-project.org/)
 [![Match Rate](https://img.shields.io/badge/Match%20Rate-96.54%25-brightgreen.svg)]()
@@ -297,7 +297,7 @@ print(available_data)
 
 ## 📈 版本更新
 
-### v3.0 主要更新
+### v5.0 主要更新
 - ✨ 新增智能整合系統
 - 🎯 優化嘉義縣匹配（96.54%）
 - 🏞️ 新增偏鄉縣市特化支援
