@@ -1,1 +1,25 @@
+# R 相關
+.RData
+.Rhistory
 .Rproj.user
+*.Rproj
+
+# 資料檔案（太大的話）
+data/input/*.csv
+data/input/*.xlsx
+data/input/*.xls
+
+# 但保留範例檔案
+!data/input/sample_*
+
+# 暫存檔案
+*.tmp
+*.temp
+~*
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+
+# 記錄檔
+*.log
